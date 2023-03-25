@@ -1,0 +1,1 @@
+https://bj.bcebos.com/ai-studio-online/26c45a89ec7e48dfbf0e6cf7f37aa40b85bb5cf6ccc74a76b31db0823d9697b7?authorization=bce-auth-v1/5cfe9a5e1454405eb2a975c43eace6ec/2022-09-04T15:26:09Z/-1//3c76cca5cd205a03b23e5d9af8a4a7c3aa0a8d1460171be6a3bb6272dc208e8f&responseContentDisposition=attachment; filename=img_align_celeba.zip
